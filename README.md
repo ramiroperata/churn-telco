@@ -25,7 +25,8 @@ El dataset incluye variables como:
 Se desarrollaron y evaluaron varios modelos de clasificación, incluyendo:
 - **Regresión Logística**: Un modelo base para establecer una línea de referencia.
 - **Random Forest**: Para capturar interacciones complejas entre características.
-- **Gradient Boosting Classifier**: Para mejorar la precisión mediante técnicas de ensamble.
+- **Gradient Boosting Classifier**: Por su proteccion al sobreajuste y flexibilidad.
+
 A partir de estos modelos se entreno un Voting Classifier combinando las fortalezas de los 3 modelos para obtener mejores predicciones
 
 ### Métricas de Evaluación
