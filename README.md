@@ -1,4 +1,4 @@
-# Prediccion de churn de empresa de telecomunicaciones
+# Prediccion de churn para compañía de telecomunicaciones
 
 Este repositorio contiene un proyecto de análisis y predicción de "churn" (tasa de abandono) para una compañía de telecomunicaciones. El objetivo principal es identificar patrones y desarrollar un modelo predictivo para anticipar qué clientes tienen mayor probabilidad de cancelar el servicio. También se realizan recomendaciones a partir de los insights para la retención de consumidores.
 
